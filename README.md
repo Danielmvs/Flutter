@@ -1,3 +1,3 @@
-# flutter_app
+# Contador
 
-App contador de poontos
+Aplicativo para contar pontos 
